@@ -13,5 +13,5 @@ Finalmente se imprimen varios párrafos con datos de:
 - Porcentaje de suspensos.
 
 <p align="center">
-  <img src="images/page.png"/>
+  <img src="/images/page.png"/>
 </p>
