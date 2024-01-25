@@ -12,6 +12,14 @@ Finalmente se imprimen varios párrafos con datos de:
 - Porcentaje de aprobados.
 - Porcentaje de suspensos.
 
+
+La aplicación también cuenta con un pequeño sistema de Login.
+
+
 <p align="center">
   <img src="/images/page.png"/>
+</p>
+
+<p align="center">
+  <img src="/images/login.png"/>
 </p>

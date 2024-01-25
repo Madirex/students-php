@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca2f7a87-db05-4e5a-9920-981c0088de28" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/login.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logout.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/structure/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/structure/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +19,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -89,7 +87,7 @@
       <workItem from="1706033844345" duration="5516000" />
       <workItem from="1706040868106" duration="23000" />
       <workItem from="1706083433413" duration="87000" />
-      <workItem from="1706193873045" duration="10030000" />
+      <workItem from="1706193873045" duration="10220000" />
     </task>
     <servers />
   </component>
