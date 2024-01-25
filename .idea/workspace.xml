@@ -5,24 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca2f7a87-db05-4e5a-9920-981c0088de28" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/student.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/studentlist.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structure/content.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structure/footer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structure/header.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/utils.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/students-php.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logout.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structure/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structure/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/structure/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +25,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2bMnW1IQty0L37I50Xs8YukNdrf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -49,8 +42,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/madir/Documents/MEGA/MadiMega/DAW/servidor/proyectos/students-php/src/images",
+    "last_opened_file_path": "C:/Users/madir/Documents/MEGA/MadiMega/DAW/despliegue/cypress-tutorial-build-todo-01_setup",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -69,6 +63,21 @@
       <recent name="C:\Users\madir\Documents\MEGA\MadiMega\DAW\servidor\proyectos\students-php\src\images" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="students-php" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="students-php" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -77,7 +86,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706033843096</updated>
-      <workItem from="1706033844345" duration="5295000" />
+      <workItem from="1706033844345" duration="5516000" />
+      <workItem from="1706040868106" duration="23000" />
+      <workItem from="1706083433413" duration="87000" />
+      <workItem from="1706193873045" duration="10030000" />
     </task>
     <servers />
   </component>
