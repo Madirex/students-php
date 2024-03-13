@@ -5,7 +5,7 @@ Aplicación simple realizada en PHP que imprime una tabla de una lista de estudi
 - Calificación.
 - Resultado.
 
-Finalmente se imprimen varios párrafos con datos de:
+Finalmente, se imprimen varios párrafos con datos de:
 - Nota media.
 - Número de aprobados.
 - Número de suspensos.
